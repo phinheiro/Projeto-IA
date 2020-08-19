@@ -17,3 +17,5 @@ yarn install
 ```
 yarn start
 ```
+## License
+This project is licensed under the [MIT License](https://github.com/phinheiro/landmark-detection/blob/master/LICENSE)
